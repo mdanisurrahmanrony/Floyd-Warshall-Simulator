@@ -1,8 +1,8 @@
 **Graph Visualisation Sample:**
-![Graph](sample1.png)
+![Graph](sampleOne.png)
 
 **Table Visualisation Sample:**
-![Table](sample2.png)
+![Table](sampleTwo.png)
 
 **Features:**
 
